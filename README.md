@@ -1,3 +1,2 @@
-# chorome_sample
-
+# chrome_sample
 chromeの拡張機能を作ってみる。
